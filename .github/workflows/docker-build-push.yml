@@ -31,4 +31,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/vimalkaur1981/flask-app:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/flask-app:latest
